@@ -1,0 +1,11 @@
+failure_code,failure_name,failure_category,severity,typical_downtime_days
+F001,Hydraulic Leak,Hydraulic,Medium,3
+F002,Hydraulic Pump Failure,Hydraulic,High,7
+F003,Electrical Sensor Fault,Electrical,Low,1
+F004,ECU / Controller Issue,Electrical,High,6
+F005,Engine Overheating,Engine,High,8
+F006,Fuel System Issue,Engine,Medium,4
+F007,Transmission Slippage,Transmission,High,9
+F008,Undercarriage Wear,Undercarriage,Medium,5
+F009,Brake Wear,Wear,Low,2
+F010,Air Filter Clogging,Wear,Low,1

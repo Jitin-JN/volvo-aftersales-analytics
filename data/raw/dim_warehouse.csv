@@ -1,0 +1,5 @@
+warehouse_id,warehouse_city,region_id
+W01,Bangalore,R02
+W02,Delhi NCR,R01
+W03,Mumbai,R03
+W04,Kolkata,R04

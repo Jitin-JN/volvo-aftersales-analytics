@@ -1,0 +1,7 @@
+region_id,region_name,demand_multiplier
+R01,North,1.0
+R02,South,1.15
+R03,West,1.1
+R04,East,0.95
+R05,Central,1.05
+R06,Northeast,0.85

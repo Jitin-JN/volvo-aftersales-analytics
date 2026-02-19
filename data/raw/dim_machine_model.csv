@@ -1,0 +1,7 @@
+model_id,model_name,category,base_price_inr,expected_annual_hours
+M01,EC220 Excavator,Excavator,13500000,1800
+M02,EC300 Excavator,Excavator,18500000,2000
+M03,L120 Wheel Loader,Loader,16000000,1900
+M04,L150 Wheel Loader,Loader,21000000,2100
+M05,A30 Articulated Hauler,Hauler,35000000,2200
+M06,A40 Articulated Hauler,Hauler,42000000,2400

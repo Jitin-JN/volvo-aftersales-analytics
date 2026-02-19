@@ -1,0 +1,201 @@
+part_id,part_name,part_category,model_id,unit_cost_inr,unit_price_inr,lead_time_days,criticality
+P0001,Nisi Neque Set,Wear Parts,M03,2128.62,3320.07,3,Low
+P0002,Beatae Consectetur Kit,Hydraulics,M04,16566.23,26537.45,9,Low
+P0003,Assumenda Nisi Assembly,Filters,M06,751.71,1207.62,9,High
+P0004,Delectus Pariatur Filter,Filters,M04,890.29,1204.38,4,Low
+P0005,Error Occaecati Sensor,Electrical,M02,9212.59,11999.97,11,High
+P0006,Autem Maxime Filter,Wear Parts,M06,1955.9,2845.64,3,Low
+P0007,Veritatis Qui Kit,Hydraulics,M06,22314.67,28854.87,14,Low
+P0008,Necessitatibus Repudiandae Kit,Wear Parts,M04,2578.79,3645.57,10,High
+P0009,Ratione Quas Filter,Electrical,M06,9568.41,14946.62,11,Low
+P0010,Nam Fuga Set,Filters,M06,1214.76,1639.38,3,Medium
+P0011,Reprehenderit Praesentium Module,Filters,M05,1020.27,1492.59,4,Low
+P0012,Tempora Nisi Module,Engine,M01,35800.83,59155.18,18,Low
+P0013,Nulla Voluptas Unit,Wear Parts,M02,3270.88,5268.1,4,Low
+P0014,Porro Nesciunt Sensor,Engine,M04,28956.22,41486.65,15,Medium
+P0015,Dolorem Dicta Pump,Filters,M05,696.63,1035.19,6,Medium
+P0016,Quae Debitis Filter,Transmission,M03,51936.35,79929.74,18,Low
+P0017,Placeat Officia Filter,Filters,M06,711.35,1143.47,6,High
+P0018,Delectus Voluptatibus Unit,Filters,M06,744.02,1216.32,2,Low
+P0019,Quam Quia Sensor,Transmission,M04,62085.43,104979.04,15,Low
+P0020,Cumque Voluptate Module,Hydraulics,M01,16055.8,20797.7,15,Low
+P0021,Error Odit Assembly,Wear Parts,M01,2410.21,4054.27,4,Low
+P0022,Pariatur Aliquid Set,Filters,M04,994.67,1421.32,4,Low
+P0023,Dolore Ratione Set,Wear Parts,M04,1769.07,2593.98,7,High
+P0024,Maxime Cumque Assembly,Engine,M05,68518.46,93575.89,15,Low
+P0025,Sed Nemo Assembly,Hydraulics,M04,8652.96,12565.01,11,Low
+P0026,Culpa Cumque Sensor,Wear Parts,M03,1416.95,2035.71,8,Low
+P0027,Maxime Rem Module,Filters,M05,979.67,1591.94,7,Medium
+P0028,Illum Animi Unit,Wear Parts,M06,2890.18,4373.82,6,High
+P0029,Quasi Dolor Assembly,Hydraulics,M06,16891.49,23499.48,7,Low
+P0030,Cumque Minima Unit,Filters,M06,726.46,942.57,2,Low
+P0031,Inventore Minima Sensor,Hydraulics,M06,23035.03,38647.54,14,Low
+P0032,Incidunt Impedit Pump,Filters,M02,1219.75,2060.44,1,Low
+P0033,Placeat Aliquam Kit,Engine,M03,55198.62,71060.91,14,Low
+P0034,Dicta Dicta Set,Hydraulics,M05,16846.19,25490.65,9,Low
+P0035,Repudiandae Nihil Module,Hydraulics,M05,15681.73,25255.85,11,Low
+P0036,Architecto Inventore Set,Electrical,M06,8199.31,12074.9,10,Low
+P0037,Id Esse Module,Hydraulics,M01,21791.31,32138.44,13,Low
+P0038,Ducimus Porro Sensor,Wear Parts,M05,1893.51,2605.86,12,High
+P0039,A Cupiditate Kit,Transmission,M03,46457.87,61662.11,21,High
+P0040,Quo Laudantium Set,Electrical,M04,6499.31,9963.49,12,Medium
+P0041,Atque Aperiam Kit,Engine,M03,48713.78,67102.43,12,Low
+P0042,Nesciunt Perspiciatis Sensor,Electrical,M06,14212.88,21658.4,8,Low
+P0043,Rem Ipsa Module,Filters,M06,783.55,1219.72,3,Low
+P0044,Recusandae Odio Assembly,Wear Parts,M02,2404.81,4049.03,5,Medium
+P0045,Labore Minus Pump,Electrical,M05,6588.75,8592.53,10,Low
+P0046,Pariatur Sequi Set,Wear Parts,M05,3103.78,4402.0,11,High
+P0047,Delectus Deserunt Kit,Engine,M05,50528.76,70458.36,17,High
+P0048,Quae Tempora Filter,Electrical,M06,12683.3,20555.96,6,Low
+P0049,Officia Odio Set,Engine,M05,38805.9,60940.92,17,Medium
+P0050,Vel Occaecati Set,Wear Parts,M01,1614.41,2587.07,1,Low
+P0051,Distinctio Itaque Set,Electrical,M01,10113.99,14355.19,4,Low
+P0052,Commodi Soluta Unit,Wear Parts,M04,2193.39,3418.39,4,Low
+P0053,Vel Soluta Kit,Hydraulics,M05,11945.99,19319.24,11,Low
+P0054,Nemo Molestias Kit,Transmission,M02,59045.6,81736.99,22,High
+P0055,Eveniet Nam Set,Wear Parts,M04,1635.41,2217.95,6,Low
+P0056,Labore Quis Sensor,Filters,M06,712.06,1190.03,1,Low
+P0057,Aperiam Velit Sensor,Hydraulics,M05,7862.43,12918.18,14,Medium
+P0058,Numquam Hic Assembly,Wear Parts,M01,1478.32,1985.79,4,Medium
+P0059,Tenetur Commodi Set,Filters,M02,498.69,775.36,1,Low
+P0060,Doloremque Voluptatum Unit,Filters,M04,923.41,1181.65,3,High
+P0061,Alias Rem Module,Electrical,M02,10857.71,18150.04,9,Medium
+P0062,Suscipit Voluptatum Unit,Hydraulics,M05,24806.39,33855.49,9,Low
+P0063,Ipsa Ratione Sensor,Electrical,M03,9450.84,12553.59,9,Low
+P0064,Tenetur Cupiditate Assembly,Hydraulics,M02,8679.69,12828.13,13,Low
+P0065,Temporibus Ratione Sensor,Filters,M02,434.06,600.22,6,Medium
+P0066,Blanditiis Earum Sensor,Wear Parts,M06,2883.23,3853.91,7,Medium
+P0067,Sit Quis Sensor,Electrical,M01,14079.65,19877.58,7,Medium
+P0068,Repellat Asperiores Set,Filters,M05,847.55,1259.73,1,Low
+P0069,Reiciendis Quasi Sensor,Hydraulics,M02,16973.97,27304.78,9,Low
+P0070,Eaque Pariatur Kit,Wear Parts,M05,1967.07,2943.94,5,Low
+P0071,Provident Ad Pump,Filters,M01,991.6,1520.22,4,Low
+P0072,Cumque Unde Filter,Filters,M06,894.51,1390.79,3,Medium
+P0073,Quibusdam Ducimus Set,Filters,M05,786.71,1101.26,4,Medium
+P0074,Ad Harum Assembly,Engine,M01,32571.83,49375.39,15,Low
+P0075,Enim Exercitationem Kit,Wear Parts,M01,3165.86,4316.07,4,Low
+P0076,Voluptatibus Repellendus Unit,Wear Parts,M04,2530.83,4067.27,5,Low
+P0077,Numquam Blanditiis Sensor,Wear Parts,M06,1735.49,2646.92,7,Low
+P0078,Quibusdam Sequi Module,Wear Parts,M06,1850.9,2403.55,7,Low
+P0079,Iste Natus Module,Electrical,M05,12436.28,18459.11,8,Low
+P0080,Repudiandae Aperiam Pump,Wear Parts,M03,2542.72,3661.77,8,Low
+P0081,Porro Adipisci Set,Filters,M04,730.37,1023.25,2,Low
+P0082,Laboriosam Nostrum Unit,Wear Parts,M06,3059.7,4991.24,1,Low
+P0083,Ducimus Nesciunt Pump,Wear Parts,M01,2287.93,2936.63,4,Low
+P0084,Alias Quia Filter,Electrical,M06,13503.51,21091.74,12,Medium
+P0085,Ipsum Modi Filter,Hydraulics,M03,20605.18,31483.94,12,Low
+P0086,Facere Consectetur Pump,Hydraulics,M02,16998.85,27586.39,16,High
+P0087,Cum Consequuntur Assembly,Wear Parts,M02,2071.45,3249.91,6,Low
+P0088,Quis Dolores Module,Wear Parts,M06,2169.42,3041.5,4,Low
+P0089,Illo Dicta Unit,Engine,M06,48150.51,70518.31,8,Low
+P0090,Ducimus Facere Set,Hydraulics,M04,11007.48,15238.78,15,Low
+P0091,Commodi Dolor Sensor,Wear Parts,M06,2744.51,4490.0,8,Medium
+P0092,Inventore Nemo Kit,Electrical,M03,8694.68,13592.39,9,Low
+P0093,Veritatis Dolores Set,Engine,M06,41844.35,53529.4,15,High
+P0094,Assumenda Sint Set,Electrical,M05,11580.6,19182.04,14,High
+P0095,Itaque Ducimus Unit,Electrical,M03,11675.58,18505.4,12,Low
+P0096,Alias Aspernatur Module,Electrical,M04,15653.78,22608.95,10,Low
+P0097,In Molestias Unit,Wear Parts,M05,2379.18,3981.41,9,Medium
+P0098,Consequuntur Ipsum Kit,Transmission,M05,15159.1,24304.32,13,Low
+P0099,Dicta Neque Pump,Filters,M02,843.68,1122.86,7,Medium
+P0100,Iste Facilis Unit,Filters,M03,900.65,1431.0,2,Low
+P0101,Minus Cumque Assembly,Transmission,M05,92145.11,149598.93,15,Low
+P0102,Asperiores Eligendi Set,Electrical,M04,7855.7,10941.15,10,Low
+P0103,Excepturi Saepe Module,Wear Parts,M02,2658.59,3385.07,1,Low
+P0104,Repudiandae Ex Sensor,Electrical,M05,13123.46,17187.42,13,High
+P0105,Possimus Quaerat Filter,Filters,M03,746.01,1106.11,1,Low
+P0106,Quae Molestiae Kit,Wear Parts,M02,2307.08,3703.87,10,Medium
+P0107,Cum Fugiat Filter,Wear Parts,M03,1949.99,2574.67,5,Low
+P0108,Assumenda Ipsum Set,Hydraulics,M03,8845.88,14017.14,9,Low
+P0109,Officiis Quod Unit,Hydraulics,M03,9718.8,12895.31,14,Low
+P0110,Nemo At Filter,Engine,M02,49516.47,71330.83,11,Low
+P0111,Perspiciatis Aliquam Assembly,Filters,M05,542.1,839.34,3,Low
+P0112,Nemo Tempora Unit,Engine,M06,39964.53,58795.08,15,Low
+P0113,Eveniet Ad Set,Hydraulics,M01,14356.24,21860.34,14,Medium
+P0114,Fugiat Quod Filter,Wear Parts,M05,3073.77,4816.13,6,Low
+P0115,Repudiandae Veniam Sensor,Transmission,M02,41607.31,68080.71,20,Low
+P0116,Consequuntur Expedita Pump,Wear Parts,M01,2499.21,4171.65,8,Medium
+P0117,Quos Totam Kit,Hydraulics,M01,22902.91,33312.68,18,Medium
+P0118,Debitis Incidunt Filter,Wear Parts,M01,2538.14,3606.66,1,Low
+P0119,Reiciendis Nemo Sensor,Hydraulics,M06,19644.27,27651.72,11,Low
+P0120,Occaecati Blanditiis Pump,Hydraulics,M04,13093.94,16650.01,15,High
+P0121,Tempora Provident Pump,Transmission,M02,65603.01,104460.79,20,Medium
+P0122,Enim Dicta Filter,Wear Parts,M06,2645.54,3608.88,2,Low
+P0123,Minima Quis Module,Wear Parts,M06,2254.14,2936.23,3,Low
+P0124,Dolores Exercitationem Filter,Hydraulics,M04,16757.95,25379.35,13,Medium
+P0125,Quidem Nisi Set,Filters,M01,720.58,1108.48,2,Low
+P0126,Quos Odio Pump,Filters,M04,484.07,650.15,5,High
+P0127,Animi A Kit,Electrical,M04,9065.08,12064.23,13,Low
+P0128,Officiis Sit Set,Wear Parts,M06,2889.33,4728.11,10,Medium
+P0129,Illum Ullam Assembly,Electrical,M02,12771.76,19835.6,9,Low
+P0130,Doloremque A Unit,Engine,M03,48900.35,70841.75,12,Low
+P0131,Assumenda Perspiciatis Filter,Filters,M04,546.14,917.83,10,High
+P0132,Fugit Sapiente Module,Hydraulics,M04,19040.66,31525.02,11,Low
+P0133,Explicabo Vero Kit,Hydraulics,M01,21749.21,36930.63,10,Low
+P0134,Modi Laudantium Module,Electrical,M01,10781.73,16000.96,6,Low
+P0135,Suscipit Error Module,Filters,M06,656.0,950.95,1,Low
+P0136,Reprehenderit Quaerat Module,Transmission,M01,61598.02,96537.04,15,Low
+P0137,Id Aperiam Filter,Hydraulics,M05,19083.95,29468.39,12,Medium
+P0138,Dolorem Quibusdam Kit,Transmission,M04,62156.47,103767.76,15,Low
+P0139,Recusandae Atque Kit,Electrical,M01,14808.17,19119.82,11,Low
+P0140,In Commodi Pump,Transmission,M02,36395.56,48462.43,16,Low
+P0141,Nam Voluptatem Module,Electrical,M05,11054.2,16149.01,12,Medium
+P0142,Cupiditate Deserunt Pump,Transmission,M06,41245.3,57423.65,18,Medium
+P0143,Quos Hic Pump,Filters,M03,448.91,617.83,1,Low
+P0144,Non Eos Unit,Wear Parts,M04,2984.11,4116.79,5,Low
+P0145,Similique Quae Filter,Engine,M04,50857.76,79880.79,15,High
+P0146,Ipsum Vero Filter,Filters,M02,576.39,785.9,5,Low
+P0147,Laboriosam Tempora Set,Filters,M03,1038.22,1509.1,6,High
+P0148,Facilis Voluptatum Sensor,Electrical,M03,8521.14,12286.48,13,High
+P0149,Odio Fugit Pump,Transmission,M06,53798.64,78000.01,18,Medium
+P0150,Exercitationem Ut Filter,Electrical,M06,14053.98,21584.4,12,Low
+P0151,Iste Laboriosam Module,Electrical,M05,16302.93,24350.07,12,Medium
+P0152,Eos Officia Sensor,Filters,M04,633.9,1045.55,4,Medium
+P0153,Sapiente Iure Assembly,Filters,M01,1009.68,1528.29,4,Medium
+P0154,Ad Voluptate Module,Engine,M06,56633.74,87590.87,15,Low
+P0155,Deleniti Tenetur Kit,Filters,M02,866.67,1396.53,1,Low
+P0156,A Sequi Filter,Wear Parts,M02,1636.39,2115.96,1,Low
+P0157,Pariatur Ab Sensor,Engine,M02,33245.59,47625.26,17,Low
+P0158,Accusamus Veniam Filter,Filters,M06,706.0,1071.13,5,Medium
+P0159,Doloribus Neque Set,Wear Parts,M06,2884.34,3826.77,6,Low
+P0160,Quos Voluptatem Pump,Filters,M02,858.11,1413.17,4,Low
+P0161,Voluptatibus Porro Assembly,Wear Parts,M06,4334.63,7210.95,2,Low
+P0162,Mollitia Quidem Filter,Filters,M01,776.16,1066.04,6,Medium
+P0163,Beatae Totam Set,Wear Parts,M01,1520.01,2096.23,6,High
+P0164,Totam Autem Set,Hydraulics,M05,20968.44,26869.75,11,Low
+P0165,Quidem Aliquam Assembly,Electrical,M04,9136.15,12836.54,11,Low
+P0166,Velit Numquam Module,Wear Parts,M01,2442.57,3897.82,4,Low
+P0167,Veniam Cupiditate Module,Filters,M05,747.09,1089.7,5,Medium
+P0168,Libero Minus Module,Wear Parts,M03,3169.11,5049.22,6,Medium
+P0169,Sapiente Magnam Unit,Hydraulics,M04,27288.99,44516.8,16,High
+P0170,Molestias Dolorum Pump,Wear Parts,M01,2498.56,4143.26,4,Low
+P0171,Voluptatem Accusamus Sensor,Filters,M03,859.45,1279.15,10,High
+P0172,Cupiditate Officiis Pump,Wear Parts,M05,2681.41,4142.58,1,Low
+P0173,Maxime Earum Module,Filters,M01,1130.11,1850.62,3,Medium
+P0174,Numquam Accusamus Assembly,Electrical,M01,11499.49,16485.77,7,Low
+P0175,Est Adipisci Unit,Hydraulics,M06,13064.06,20094.0,17,High
+P0176,Hic Vero Pump,Wear Parts,M03,2365.41,3926.47,6,Low
+P0177,Voluptatum Magnam Module,Hydraulics,M01,23408.69,29475.77,14,Medium
+P0178,Earum Consectetur Unit,Engine,M02,27853.35,45625.2,17,Medium
+P0179,Sint Sunt Sensor,Engine,M06,55984.85,86966.81,11,Low
+P0180,Incidunt Est Assembly,Filters,M06,475.8,767.96,1,Low
+P0181,Eveniet Possimus Module,Wear Parts,M01,2374.87,3616.77,11,High
+P0182,Magni Amet Sensor,Filters,M06,1033.63,1489.73,3,Low
+P0183,Hic Possimus Kit,Hydraulics,M04,13729.71,20474.93,10,Low
+P0184,Voluptatibus Voluptatibus Sensor,Wear Parts,M03,1203.81,1554.13,1,Low
+P0185,Sequi Eos Filter,Wear Parts,M04,1931.05,2584.96,8,Medium
+P0186,Ab Eius Assembly,Wear Parts,M05,1609.92,2435.39,4,Low
+P0187,Tempore Nam Sensor,Hydraulics,M04,14231.67,21229.76,7,Low
+P0188,Culpa Hic Sensor,Hydraulics,M02,15888.92,26156.17,11,Low
+P0189,Reiciendis Provident Set,Filters,M06,407.09,515.39,1,Low
+P0190,Possimus Dolores Set,Wear Parts,M06,4361.91,6549.31,8,High
+P0191,Quod Earum Sensor,Electrical,M02,9396.23,12811.77,15,High
+P0192,Unde Recusandae Sensor,Wear Parts,M06,2495.45,3359.83,4,Medium
+P0193,Veniam Vero Assembly,Hydraulics,M04,17222.19,22641.32,11,Low
+P0194,Sed Recusandae Set,Hydraulics,M05,19320.05,25400.56,19,High
+P0195,Doloribus At Pump,Hydraulics,M01,19736.87,27663.48,9,Low
+P0196,Repudiandae Debitis Assembly,Filters,M02,455.66,587.41,4,Low
+P0197,At Debitis Kit,Hydraulics,M04,15136.99,21836.76,14,High
+P0198,Facilis Reiciendis Assembly,Engine,M04,30956.96,38864.34,17,Medium
+P0199,Eum Quasi Module,Engine,M04,72463.74,121977.62,16,Medium
+P0200,Harum Earum Module,Electrical,M01,9621.21,14509.07,16,Medium
