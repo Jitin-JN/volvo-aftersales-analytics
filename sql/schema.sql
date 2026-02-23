@@ -132,9 +132,41 @@ CREATE TABLE fact_parts_sales (
   is_emergency_order INTEGER
 );
 
--- Helpful indexes (important for speed)
+DROP TABLE IF EXISTS fact_inventory_daily;
+
+CREATE TABLE fact_inventory_daily (
+  snapshot_date TEXT,
+  warehouse_id TEXT,
+  part_id TEXT,
+  on_hand_qty INTEGER,
+  reorder_point INTEGER,
+  stockout_flag INTEGER
+);
+
+DROP TABLE IF EXISTS fact_customer_feedback;
+
+CREATE TABLE fact_customer_feedback (
+  feedback_id TEXT PRIMARY KEY,
+  service_job_id TEXT,
+  customer_id TEXT,
+  service_date TEXT,
+  csat_score INTEGER,
+  nps_score INTEGER,
+  nps_group TEXT,
+  complaint_reason TEXT,
+  is_stockout_impacted INTEGER,
+  is_emergency INTEGER,
+  downtime_days INTEGER,
+  job_type TEXT,
+  resolution_status TEXT
+);
+
+CREATE INDEX idx_feedback_service_job ON fact_customer_feedback(service_job_id);
+CREATE INDEX idx_feedback_date ON fact_customer_feedback(service_date);
 CREATE INDEX idx_telematics_machine_date ON fact_telematics_daily(machine_id, snapshot_date);
 CREATE INDEX idx_service_machine_date ON fact_service_job(machine_id, service_date);
 CREATE INDEX idx_parts_service_job ON fact_parts_sales(service_job_id);
 CREATE INDEX idx_parts_part_date ON fact_parts_sales(part_id, sale_date);
 CREATE INDEX idx_service_failure ON fact_service_job(failure_code);
+CREATE INDEX idx_inventory_part_date ON fact_inventory_daily(part_id, snapshot_date);
+CREATE INDEX idx_inventory_wh_part_date ON fact_inventory_daily(warehouse_id, part_id, snapshot_date);

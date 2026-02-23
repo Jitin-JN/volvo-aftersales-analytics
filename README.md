@@ -1,6 +1,6 @@
-# Aftersales Performance & Parts Optimization Analytics
+# Volvo Aftersales Analytics (Synthetic End-to-End Project)
 
-## 1. Business Context
+## Business Context
 
 This project simulates an end-to-end Aftersales Analytics system for a Construction Equipment company (Volvo CE-like environment). 
 
@@ -11,31 +11,27 @@ The objective is to analyze aftersales performance across:
 - Telematics usage
 - Customer satisfaction
 
-The goal is to generate actionable insights that improve:
-- Downtime reduction
-- Inventory optimization
-- Failure prediction
-- Customer retention
-
 This project is about cause and effect.
 
-We are building this chain:
+I am building this chain:
 
 Telematics → Failures → Service Jobs → Parts Usage → Inventory Impact → Downtime → CSAT → NPS
 
 ---
 
-## 2. Key Business Questions
+## 📊 Key Features
+- 547,500+ synthetic records
+- 292,800 daily inventory snapshots
+- 1,500 machines simulated
+- Stockout risk modeling (2–3%)
+- Machine health segmentation
+- CSAT impact analysis
+- Breakdown probability modeling
 
-1. Which parts drive the highest revenue and margin?
-2. What are the top recurring failure patterns by machine model?
-3. How do stockouts impact downtime and CSAT?
-4. Can telematics data predict breakdown risk?
-5. How can demand forecasting reduce inventory shortages?
 
 ---
 
-## 3. Data Model Overview
+## Data Model Overview
 
 The project uses a star schema structure with:
 
@@ -59,21 +55,23 @@ Fact Tables:
 
 ---
 
-## 4. Tools & Technologies
-
+## 🧱 Tech Stack
 - Python (Pandas, NumPy)
-- SQL
+- SQL (SQLite)
 - Power BI
-- Time Series Forecasting (ARIMA/Prophet)
-- Logistic Regression (Failure Risk)
+- Data Modeling (Star Schema)
+- DAX
 
 ---
 
-## 5. Dashboard Pages
 
-1. Executive Overview
-2. Parts Analytics
-3. Service & Product Support
-4. Digital Usage & Predictive Insights
+## 📈 Dashboards
+1. Executive Snapshot
+2. Inventory Risk & Customer Impact
+3. Machine Health Monitoring
+
+---
+
+
 
 

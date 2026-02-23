@@ -25,6 +25,8 @@ TABLES = [
     ("fact_telematics_daily", "fact_telematics_daily.csv", ["snapshot_date"]),
     ("fact_service_job", "fact_service_job.csv", ["service_date"]),
     ("fact_parts_sales", "fact_parts_sales.csv", ["sale_date"]),
+    ("fact_inventory_daily", "fact_inventory_daily.csv", ["snapshot_date"]),
+    ("fact_customer_feedback", "fact_customer_feedback.csv", ["service_date"]),
 ]
 
 def main():
