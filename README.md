@@ -1,4 +1,4 @@
-# Volvo Aftersales Analytics (Synthetic End-to-End Project)
+# Volvo Aftersales Analytics (End-to-End Project)
 
 ## 🧠 My Thought Process Behind This Project
 
