@@ -86,8 +86,10 @@ Fact Tables:
 3. Machine Health Monitoring
 
 <img width="1237" height="706" alt="image" src="https://github.com/user-attachments/assets/d8b07324-be2e-4404-b84b-1ed99e066b03" />
+<br>
 
 <img width="1123" height="625" alt="image" src="https://github.com/user-attachments/assets/05db42f7-6b77-4f2c-8bd6-d60ea776f36e" />
+<br>
 
 <img width="1122" height="626" alt="image" src="https://github.com/user-attachments/assets/59537763-1846-4d52-9487-8f2e60a884e6" />
 
